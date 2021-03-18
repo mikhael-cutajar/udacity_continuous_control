@@ -1,4 +1,3 @@
-
 [//]: # (Image References)
 
 
@@ -52,7 +51,7 @@ Episode 80	Score: 35.86	Average Score: 30.21
 Environment solved by episode 80
 ```
 
-![Screenshot 2021-03-05 at 10 30 37](https://user-images.githubusercontent.com/74315440/110096061-d4e44800-7d9d-11eb-9d32-edd912059548.png)
+![Screenshot 2021-03-18 at 17 12 29](https://user-images.githubusercontent.com/74315440/111659070-33351000-880d-11eb-967a-7fea5f52fbca.png)
 
 ### Future Work
 
