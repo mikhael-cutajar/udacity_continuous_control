@@ -20,7 +20,7 @@ The ddpg model architecture implemented was similar to the one used in the [DDPG
 
 ### Hyperparameters
 
-The hyperparameters are identical to the Udacity pendulum implementation as they worked well. The only change made which greatly improved results was the increase of max_t to 1300.
+The hyperparameters are identical to the Udacity pendulum implementation as they worked well. The only change made which improved learning was the increase of max_t to 1300.
 
 ```
 BUFFER_SIZE = int(1e5)  # replay buffer size
@@ -57,4 +57,4 @@ Environment solved by episode 80
 
 Possible future work could including: 
 - Trying out the D4PG model and comparing the results
-- Experiment with how learning changes when using ven more agents
+- Experiment with how learning changes when using even more agents
