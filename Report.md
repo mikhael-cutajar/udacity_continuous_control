@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 
-# Project 1: Navigation
+# Project 2: Continuous Control
 ### The environment
 
 In this project, a model using DDPG was trained to solve the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
