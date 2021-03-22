@@ -44,5 +44,5 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Instructions
 
 - Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
-- `model.py` contains the architecture used to solve this problem
+- `model.py` contains the architecture used to solve this problem.
 - `ddpg_agent.py` contains the agent class which has functions relating to how the agent interacts and learns from the environment, and also the replay buffer class used to store the agents experience and the noise class.
